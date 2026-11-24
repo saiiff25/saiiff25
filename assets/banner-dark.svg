@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Saif Ibrahim, Full-Stack Developer and Product Builder">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#21262D"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#0D1117" stop-opacity="1"/><stop offset="0.55" stop-color="#0D1117" stop-opacity="0.85"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="1278" height="318" rx="18" fill="url(#dots)"/>
+  <rect x="1" y="1" width="900" height="318" rx="18" fill="url(#fade)"/>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="72" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#9198A1">FULL-STACK DEVELOPER  /  PRODUCT BUILDER</text>
+    <text x="68" y="182" font-size="68" font-weight="700" letter-spacing="-2" fill="#F0F6FC">Saif Ibrahim</text>
+    <text x="72" y="232" font-size="21" fill="#9198A1">I design and build web products end to end,</text>
+    <text x="72" y="262" font-size="21" fill="#9198A1">from the interface down to the database.</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <line x1="1060" y1="96" x2="1060" y2="232" stroke="#30363D" stroke-width="2"/>
+    <rect x="950" y="56" width="220" height="48" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="974" cy="80" r="4" fill="#3FB950"/><text x="992" y="85" fill="#F0F6FC">interface</text>
+    <rect x="950" y="136" width="220" height="48" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="974" cy="160" r="4" fill="#3FB950"/><text x="992" y="165" fill="#F0F6FC">server logic</text>
+    <rect x="950" y="216" width="220" height="48" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="974" cy="240" r="4" fill="#3FB950"/><text x="992" y="245" fill="#F0F6FC">database</text>
+  </g>
+</svg>
